@@ -1,4 +1,4 @@
-entrypoint = "loop.js"
+entrypoint = "01_eva_prinzip/ohm.js"
 
 [interpreter]
 command = [
