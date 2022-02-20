@@ -17,7 +17,7 @@ function sleep(ms) {
 async function mainloop() {
     for (let i = 1; i <50 ; i++) {  
 
-       await sleep(300);
+       await sleep(600);
        console.clear()
        build()
     }
